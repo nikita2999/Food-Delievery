@@ -18,8 +18,9 @@ food-delivery-app/
 
 ## 🔗 Live Demo
 
-- **Frontend**: [https://your-frontend-url.onrender.com](https://your-frontend-url.onrender.com)
-- **Backend API**: [https://your-backend-url.onrender.com](https://your-backend-url.onrender.com)
+- **Frontend**: [https://your-frontend-url.onrender.com](https://food-frontend-8634.onrender.com)
+- **Backend API**: [https://your-backend-url.onrender.com](https://food-backend-wu4q.onrender.com)
+- **Fully deployed**:[https://food-frontend-8634.onrender.com](https://food-frontend-8634.onrender.com)
 
 ---
 
