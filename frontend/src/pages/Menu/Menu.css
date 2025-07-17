@@ -35,6 +35,7 @@
 .food-items-main{
     display: flex;
     gap: 10px;
+    overflow-x: auto;
 }
 .menu-items span{
     font-size: 35px;
