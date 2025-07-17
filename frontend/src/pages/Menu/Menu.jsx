@@ -16,7 +16,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_1.png" alt="Greek Salad" />
+                    <img src="../../assets/food_1.png" alt="Greek Salad" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Greek Salad</span></div>
@@ -31,7 +31,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_2.png" alt="Veg Salad" />
+                    <img src="../../assets/food_2.png" alt="Veg Salad" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Veg Salad</span></div>
@@ -46,7 +46,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_3.png" alt="Clover Salad" />
+                    <img src="../../assets/food_3.png" alt="Clover Salad" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Clover Salad</span></div>
@@ -61,7 +61,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_4.png" alt="Chicken Salad" />
+                    <img src="../../assets/food_4.png" alt="Chicken Salad" />
                   </div>
                   <div className="flip-card-back">
                      <div className='dish-name'>Name :- <span>Chicken Salad</span></div>
@@ -81,7 +81,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_5.png" alt="Lasagna Rolls" />
+                    <img src="../../assets/food_5.png" alt="Lasagna Rolls" />
                   </div>
                   <div className="flip-card-back">
                      <div className='dish-name'>Name :- <span>Lasagna Rolls</span></div>
@@ -96,7 +96,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_6.png" alt="Peri Peri Rolls" />
+                    <img src="../../assets/food_6.png" alt="Peri Peri Rolls" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Peri Peri Rolls</span></div>
@@ -111,7 +111,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_7.png" alt="Chicken Rolls" />
+                    <img src="../../assets/food_7.png" alt="Chicken Rolls" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Chicken Rolls</span></div>
@@ -126,7 +126,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_8.png" alt="Veg Rolls" />
+                    <img src="../../assets/food_8.png" alt="Veg Rolls" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Veg Rolls</span></div>
@@ -145,7 +145,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_9.png" alt="Ripple Ice Cream" />
+                    <img src="../../assets/food_9.png" alt="Ripple Ice Cream" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Ripple Ice Cream</span></div>
@@ -160,7 +160,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_10.png" alt="Fruit Ice Cream" />
+                    <img src="../../assets/food_10.png" alt="Fruit Ice Cream" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Fruit Ice Cream</span></div>
@@ -175,7 +175,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_11.png" alt="Jar Ice Cream" />
+                    <img src="../../assets/food_11.png" alt="Jar Ice Cream" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Jar Ice Cream</span></div>
@@ -190,7 +190,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_12.png" alt="Vanilla Ice Cream" />
+                    <img src="../../assets/food_12.png" alt="Vanilla Ice Cream" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Vanilla Ice Cream</span></div>
@@ -210,7 +210,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_13.png" alt="Chicken Sandwich" />
+                    <img src="../../assets/food_13.png" alt="Chicken Sandwich" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Chicken Sandwich</span></div>
@@ -225,7 +225,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_14.png" alt="Vegan Sandwich" />
+                    <img src="../../assets/food_14.png" alt="Vegan Sandwich" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>vegan Sandwich</span></div>
@@ -240,7 +240,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_15.png" alt="Grilled Sandwich" />
+                    <img src="../../assets/food_15.png" alt="Grilled Sandwich" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Grilled Sandwich</span></div>
@@ -255,7 +255,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_16.png" alt="Bread Sandwich" />
+                    <img src="../../assets/food_16.png" alt="Bread Sandwich" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Bread Sandwich</span></div>
@@ -275,7 +275,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_17.png" alt="Cup Cake" />
+                    <img src="../../assets/food_17.png" alt="Cup Cake" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Cup Cake</span></div>
@@ -290,7 +290,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_18.png" alt="Vegan Cake" />
+                    <img src="../../assets/food_18.png" alt="Vegan Cake" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Vegan Cake</span></div>
@@ -305,7 +305,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_19.png" alt="Butterscotch Cake" />
+                    <img src="../../assets/food_19.png" alt="Butterscotch Cake" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Butterscotch Cake</span></div>
@@ -320,7 +320,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_20.png" alt="Sliced Cake" />
+                    <img src="../../assets/food_20.png" alt="Sliced Cake" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Sliced Cake</span></div>
@@ -340,7 +340,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_21.png" alt="Garlic Mushroom" />
+                    <img src="../../assets/food_21.png" alt="Garlic Mushroom" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Garlic Mushroom</span></div>
@@ -355,7 +355,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_22.png" alt="Fried Cauliflower" />
+                    <img src="../../assets/food_22.png" alt="Fried Cauliflower" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Fried Cauliflower</span></div>
@@ -370,7 +370,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_23.png" alt="Mix Veg Pulao" />
+                    <img src="../../assets/food_23.png" alt="Mix Veg Pulao" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Mix Veg Pulao </span></div>
@@ -385,7 +385,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_24.png" alt="Rice Zucchini" />
+                    <img src="../../assets/food_24.png" alt="Rice Zucchini" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Rice Zucchini</span></div>
@@ -405,7 +405,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_25.png" alt="Cheese Pasta" />
+                    <img src="../../assets/food_25.png" alt="Cheese Pasta" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Cheese Pasta</span></div>
@@ -420,7 +420,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_26.png" alt="Tomato Pasta" />
+                    <img src="../../assets/food_26.png" alt="Tomato Pasta" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Tomato Pasta</span></div>
@@ -435,7 +435,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_27.png" alt="Creamy Pasta" />
+                    <img src="../../assets/food_27.png" alt="Creamy Pasta" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Creamy Pasta</span></div>
@@ -450,7 +450,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_28.png" alt="Chicken Pasta" />
+                    <img src="../../assets/food_28.png" alt="Chicken Pasta" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Chicken Pasta</span></div>
@@ -470,7 +470,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_29.png" alt="Buttter Noodles" />
+                    <img src="../../assets/food_29.png" alt="Buttter Noodles" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Buttter Noodles</span></div>
@@ -485,7 +485,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_30.png" alt="Veg Noodles" />
+                    <img src="../../assets/food_30.png" alt="Veg Noodles" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Veg Noodles</span></div>
@@ -500,7 +500,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_31.png" alt="Somen Noodles" />
+                    <img src="../../assets/food_31.png" alt="Somen Noodles" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Somen Noodles</span></div>
@@ -515,7 +515,7 @@ const Menu = () => {
               <div className="flip-card">
                 <div className="flip-card-inner">
                   <div className="flip-card-front">
-                    <img src="/public/assets/food_32.png" alt="Cooked Noodles" />
+                    <img src="../../assets/food_32.png" alt="Cooked Noodles" />
                   </div>
                   <div className="flip-card-back">
                     <div className='dish-name'>Name :- <span>Cooked Noodles</span></div>
