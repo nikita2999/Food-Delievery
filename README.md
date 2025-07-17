@@ -51,7 +51,7 @@ food-delivery-app/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/food-delivery-app.git
+git clone https://github.com/nikita2999/food-delivery-app.git
 cd food-delivery-app
 ```
 
